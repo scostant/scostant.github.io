@@ -1,0 +1,21 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/inv4uab.css");
+
+img {
+width: 100%;}
+
+body {
+   font-family: marydale, sans-serif; 
+}
+
+h2 {
+    color: rgb(105, 105, 105); 
+}
+
+div.ingredients {
+    background-color: rgb(192, 222, 196);
+}
+
+div.directions {
+    background-color: rgb(220, 182, 182);
+}
