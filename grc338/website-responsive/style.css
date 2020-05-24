@@ -1,0 +1,53 @@
+/* CSS DOCUMENT */
+@import url("https://use.typekit.net/gne1dji.css");
+@import url("https://use.typekit.net/gne1dji.css");
+
+
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none; 
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-family: sutro-deluxe-primary, sans-serif;
+    color: rgb(0,0,0);
+
+}
+
+li {
+    list-style: none;
+}
+
+h2 {
+    font-family: sutro-deluxe-primary, sans-serif;
+    padding: 0.5em 2em 0.5em 2em;
+}
+
+h3 {
+    font-family: sweet-sans-pro, sans-serif;
+    padding: 0.5em 2em 0.5em 2em;
+}
+
+h4 {
+    font-family: sweet-sans-pro, sans-serif;
+    padding: 0.5em 2em 0.5em 0em;
+}
+
+p {
+    font-family: sweet-sans-pro, sans-serif;
+    margin: 1em 5em 1.5em 5em;
+    padding: 0.5em 2em 0.5em 0em;
+}
+div.intro {
+
+    text-align: center;
+}
+
+
+
+
